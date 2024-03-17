@@ -91,7 +91,7 @@
                   "reverse_half_shift",
                   "reverse"
               ],
-              "grandFinal": "double",
+              "grandFinal": "simple",
               "matchesChildCount": 0
           }
       }
