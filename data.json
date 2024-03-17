@@ -84,14 +84,14 @@
           "type": "double_elimination",
           "number": 1,
           "settings": {
-              "size": 16,
+              "size": 128,
               "seedOrdering": [
                   "natural",
                   "natural",
                   "reverse_half_shift",
                   "reverse"
               ],
-              "grandFinal": "simple",
+              "grandFinal": "none",
               "matchesChildCount": 0
           }
       }
