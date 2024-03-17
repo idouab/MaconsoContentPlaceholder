@@ -80,7 +80,7 @@
       {
           "id": 0,
           "tournament_id": 0,
-          "name": "BSC test",
+          "name": "BSC",
           "type": "double_elimination",
           "number": 1,
           "settings": {
