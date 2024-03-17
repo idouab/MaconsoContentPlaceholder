@@ -1,180 +1,106 @@
 {
-  "participant": [
-    {
+    "participant": [
+      { "id": 0, "tournament_id": 0, "name": "Lions" },
+      { "id": 1, "tournament_id": 0, "name": "Tigers" },
+      { "id": 2, "tournament_id": 0, "name": "Bears" },
+      { "id": 3, "tournament_id": 0, "name": "Wolves" },
+      { "id": 4, "tournament_id": 0, "name": "Eagles" },
+      { "id": 5, "tournament_id": 0, "name": "Falcons" },
+      { "id": 6, "tournament_id": 0, "name": "Hawks" },
+      { "id": 7, "tournament_id": 0, "name": "Dolphins" },
+      { "id": 8, "tournament_id": 0, "name": "Sharks" },
+      { "id": 9, "tournament_id": 0, "name": "Panthers" },
+      { "id": 10, "tournament_id": 0, "name": "Cougars" },
+      { "id": 11, "tournament_id": 0, "name": "Jaguars" },
+      { "id": 12, "tournament_id": 0, "name": "Rhinos" },
+      { "id": 13, "tournament_id": 0, "name": "Bisons" },
+      { "id": 14, "tournament_id": 0, "name": "Giraffes" },
+      { "id": 15, "tournament_id": 0, "name": "Pandas" },
+      { "id": 16, "tournament_id": 0, "name": "Lemurs" },
+      { "id": 17, "tournament_id": 0, "name": "Kangaroos" },
+      { "id": 18, "tournament_id": 0, "name": "Zebras" },
+      { "id": 19, "tournament_id": 0, "name": "Cheetahs" },
+      { "id": 20, "tournament_id": 0, "name": "Gorillas" },
+      { "id": 21, "tournament_id": 0, "name": "Penguins" },
+      { "id": 22, "tournament_id": 0, "name": "Owls" },
+      { "id": 23, "tournament_id": 0, "name": "Wombats" },
+      { "id": 24, "tournament_id": 0, "name": "Koalas" },
+      { "id": 25, "tournament_id": 0, "name": "Foxes" },
+      { "id": 26, "tournament_id": 0, "name": "Polar Bears" },
+      { "id": 27, "tournament_id": 0, "name": "Seals" },
+      { "id": 28, "tournament_id": 0, "name": "Otters" },
+      { "id": 29, "tournament_id": 0, "name": "Walruses" },
+      { "id": 30, "tournament_id": 0, "name": "Ducks" },
+      { "id": 31, "tournament_id": 0, "name": "Swans" },
+      { "id": 32, "tournament_id": 0, "name": "Geese" },
+      { "id": 33, "tournament_id": 0, "name": "Robins" },
+      { "id": 34, "tournament_id": 0, "name": "Sparrows" },
+      { "id": 35, "tournament_id": 0, "name": "Hawks" },
+      { "id": 36, "tournament_id": 0, "name": "Eagles" },
+      { "id": 37, "tournament_id": 0, "name": "Falcons" },
+      { "id": 38, "tournament_id": 0, "name": "Owls" },
+      { "id": 39, "tournament_id": 0, "name": "Ravens" },
+      { "id": 40, "tournament_id": 0, "name": "Crows" },
+      { "id": 41, "tournament_id": 0, "name": "Blackbirds" },
+      { "id": 42, "tournament_id": 0, "name": "Starlings" },
+      { "id": 43, "tournament_id": 0, "name": "Blue Jays" },
+      { "id": 44, "tournament_id": 0, "name": "Cardinals" },
+      { "id": 45, "tournament_id": 0, "name": "Robins" },
+      { "id": 46, "tournament_id": 0, "name": "Swallows" },
+      { "id": 47, "tournament_id": 0, "name": "Woodpeckers" },
+      { "id": 48, "tournament_id": 0, "name": "Hummingbirds" },
+      { "id": 49, "tournament_id": 0, "name": "Kingfishers" },
+      { "id": 50, "tournament_id": 0, "name": "Pelicans" },
+      { "id": 51, "tournament_id": 0, "name": "Herons" },
+      { "id": 52, "tournament_id": 0, "name": "Cranes" },
+      { "id": 53, "tournament_id": 0, "name": "Storks" },
+      { "id": 54, "tournament_id": 0, "name": "Flamingos" },
+      { "id": 55, "tournament_id": 0, "name": "Spoonbills" },
+      { "id": 56, "tournament_id": 0, "name": "Ibises" },
+      { "id": 57, "tournament_id": 0, "name": "Egrets" },
+      { "id": 58, "tournament_id": 0, "name": "Herons" },
+      { "id": 59, "tournament_id": 0, "name": "Swans" },
+      { "id": 60, "tournament_id": 0, "name": "Geese" },
+      { "id": 61, "tournament_id": 0, "name": "Ducks" },
+      { "id": 62, "tournament_id": 0, "name": "Loons" },
+      { "id": 63, "tournament_id": 0, "name": "Grebes" }
+    ],
+    "stage": [
+      {
         "id": 0,
         "tournament_id": 0,
-        "name": "Lions"
-      },
-      {
-        "id": 1,
-        "tournament_id": 0,
-        "name": "Tigers"
-      },
-      {
-        "id": 2,
-        "tournament_id": 0,
-        "name": "Bears"
-      },
-      {
-        "id": 3,
-        "tournament_id": 0,
-        "name": "Wolves"
-      },
-      {
-        "id": 4,
-        "tournament_id": 0,
-        "name": "Eagles"
-      },
-      {
-        "id": 5,
-        "tournament_id": 0,
-        "name": "Falcons"
-      },
-      {
-        "id": 6,
-        "tournament_id": 0,
-        "name": "Hawks"
-      },
-      {
-        "id": 7,
-        "tournament_id": 0,
-        "name": "Dolphins"
-      },
-      {
-        "id": 8,
-        "tournament_id": 0,
-        "name": "Sharks"
-      },
-      {
-        "id": 9,
-        "tournament_id": 0,
-        "name": "Panthers"
-      },
-      {
-        "id": 10,
-        "tournament_id": 0,
-        "name": "Cougars"
-      },
-      {
-        "id": 11,
-        "tournament_id": 0,
-        "name": "Jaguars"
-      },
-      {
-        "id": 12,
-        "tournament_id": 0,
-        "name": "Rhinos"
-      },
-      {
-        "id": 13,
-        "tournament_id": 0,
-        "name": "Bisons"
-      },
-      {
-        "id": 14,
-        "tournament_id": 0,
-        "name": "Giraffes"
-      },
-      {
-        "id": 15,
-        "tournament_id": 0,
-        "name": "Pandas"
+        "name": "BSC",
+        "type": "double_elimination",
+        "number": 1,
+        "settings": {
+          "size": 64,
+          "seedOrdering": [
+            "natural",
+            "natural",
+            "reverse_half_shift",
+            "reverse"
+          ],
+          "grandFinal": "none",
+          "matchesChildCount": 0
+        }
       }
-  ],
-  "stage": [
-      {
-          "id": 0,
-          "tournament_id": 0,
-          "name": "BSC",
-          "type": "double_elimination",
-          "number": 1,
-          "settings": {
-              "size": 16,
-              "seedOrdering": [
-                  "natural",
-                  "natural",
-                  "reverse_half_shift",
-                  "reverse"
-              ],
-              "grandFinal": "none",
-              "matchesChildCount": 0
-          }
-      }
-  ],
-  "group": [
-      {
-          "id": 0,
-          "stage_id": 0,
-          "number": 1
-      },
-      {
-          "id": 1,
-          "stage_id": 0,
-          "number": 2
-      }
-  ],
-  "round": [
-      {
-          "id": 0,
-          "number": 1,
-          "stage_id": 0,
-          "group_id": 0
-      },
-      {
-          "id": 1,
-          "number": 2,
-          "stage_id": 0,
-          "group_id": 0
-      },
-      {
-          "id": 2,
-          "number": 3,
-          "stage_id": 0,
-          "group_id": 0
-      },
-      {
-          "id": 3,
-          "number": 4,
-          "stage_id": 0,
-          "group_id": 0
-      },
-      {
-          "id": 4,
-          "number": 1,
-          "stage_id": 0,
-          "group_id": 1
-      },
-      {
-          "id": 5,
-          "number": 2,
-          "stage_id": 0,
-          "group_id": 1
-      },
-      {
-          "id": 6,
-          "number": 3,
-          "stage_id": 0,
-          "group_id": 1
-      },
-      {
-          "id": 7,
-          "number": 4,
-          "stage_id": 0,
-          "group_id": 1
-      },
-      {
-          "id": 8,
-          "number": 5,
-          "stage_id": 0,
-          "group_id": 1
-      },
-      {
-          "id": 9,
-          "number": 6,
-          "stage_id": 0,
-          "group_id": 1
-      }
-  ],
+    ],
+    "group": [
+      { "id": 0, "stage_id": 0, "number": 1 },
+      { "id": 1, "stage_id": 0, "number": 2 }
+    ],
+    "round": [
+      { "id": 0, "number": 1, "stage_id": 0, "group_id": 0 },
+      { "id": 1, "number": 2, "stage_id": 0, "group_id": 0 },
+      { "id": 2, "number": 3, "stage_id": 0, "group_id": 0 },
+      { "id": 3, "number": 4, "stage_id": 0, "group_id": 0 },
+      { "id": 4, "number": 1, "stage_id": 0, "group_id": 1 },
+      { "id": 5, "number": 2, "stage_id": 0, "group_id": 1 },
+      { "id": 6, "number": 3, "stage_id": 0, "group_id": 1 },
+      { "id": 7, "number": 4, "stage_id": 0, "group_id": 1 },
+      { "id": 8, "number": 5, "stage_id": 0, "group_id": 1 },
+      { "id": 9, "number": 6, "stage_id": 0, "group_id": 1 }
+    ],
   "match": [
       {
           "id": 0,
