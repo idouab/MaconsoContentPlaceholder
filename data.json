@@ -1,11 +1,6 @@
 {
   "participant": [
       {
-"id": "null",
-      "tournament_id": 0,
-      "name": "BYE"
-    },
-      {
           "id": "b3842fbe-d866-11ee-a841-0242ac130003",
           "tournament_id": 0,
           "name": "NJ Factory"
