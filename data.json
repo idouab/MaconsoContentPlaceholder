@@ -1544,9 +1544,7 @@
       "status": 4,
       "opponent1": {
         "id": "b3842fbe-d866-11ee-a841-0242ac130003",
-        "position": 1,
-        "score": 2,
-        "result": "win"
+        "position": 1
       },
       "opponent2": null
     },
