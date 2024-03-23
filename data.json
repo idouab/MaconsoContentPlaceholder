@@ -1548,12 +1548,7 @@
         "score": 2,
         "result": "win"
       },
-      "opponent2": {
-        "id": "null",
-        "position": 2,
-        "score": 0,
-        "result": "loss"
-      }
+      "opponent2": null
     },
     {
       "id": 2,
