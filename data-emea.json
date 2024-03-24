@@ -5125,7 +5125,7 @@
         {
             "id": 0,
             "tournament_id": 0,
-            "name": "emea",
+            "name": "BSC March MQs - EMEA",
             "type": "double_elimination",
             "number": 1,
             "settings": {
